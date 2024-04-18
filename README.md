@@ -4,6 +4,7 @@ Diy filament dryer based on WeMos D1 mini and SunLu S1 drybox (for nice looking 
 
 BOM:
 - ESP8266 (WeMos D1 mini)
+- Small DC-DC to convert 24v to 5v (https://aliexpress.ru/item/33013014541.html)
 - BME280 (as I already have it)
 - DS18B20 (as I already have it)
 - Heaters x2 (https://aliexpress.ru/item/1005004051777634.html)
