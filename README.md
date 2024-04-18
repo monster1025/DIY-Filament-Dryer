@@ -13,3 +13,5 @@ BOM:
 
 I have used BME280 as internal temp sensor, some DS18B20 as heater sensors.
 
+-----------------------------------
+Based on https://github.com/SasaKaranovic/DIY-Filament-Dryer
